@@ -19,10 +19,5 @@ This repository contains the following:
 - `Paper`: The complete paper text.
 - `Datasets`: Links to the cleaned and filtered AIS datasets.
 
-## Future Research Directions
-- Integrating additional data sources (e.g., meteorological and oceanographic data) to further improve model performance.
-- Exploring optimization algorithms to reduce computational overhead and improve efficiency in handling long sequences.
-- Developing customized maritime monitoring solutions for specific vessel types and navigational areas.
-
-## License
-This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution.
+## Acknowledgments
+Thanks to [Marine Cadastre Hub](https://marinecadastre.gov/) for providing the raw AIS data, and thank you all for your interest in this work!
