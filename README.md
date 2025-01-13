@@ -1,4 +1,4 @@
-# AIS Data-Driven Maritime Monitoring Based on Transformer Model
+# AIS Data-Driven Maritime Monitoring Based on Transformer
 
 ## Paper Overview
 This paper provides a comprehensive review of AIS data-driven maritime monitoring based on Transformer models, focusing on key techniques such as vessel trajectory prediction, vessel behavior detection, and vessel behavior prediction. With the increasing demands for safety, efficiency, and sustainability in global shipping, the application of AIS data plays a crucial role in enhancing maritime monitoring. The Transformer model, with its advantage in handling long sequence data and complex temporal dependencies, has proven to be an effective tool for processing AIS data.
