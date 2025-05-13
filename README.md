@@ -34,6 +34,7 @@ This study utilizes multiple publicly available AIS datasets from the reviewed p
 ## Repository Structure
 This repository contains the following:
 - `Datasets`: Links to the cleaned and filtered AIS datasets.
+- `Paper`: Links to the full paper.
 
 ## Acknowledgments
 Thanks to [Marine Cadastre Hub](https://marinecadastre.gov/) for providing the raw AIS data, and thank you all for your interest in this work!
