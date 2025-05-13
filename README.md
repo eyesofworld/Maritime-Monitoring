@@ -3,6 +3,21 @@
 ## Paper Overview
 This paper provides a comprehensive review of AIS data-driven maritime monitoring based on Transformer models, focusing on key techniques such as vessel trajectory prediction, vessel behavior detection, and vessel behavior prediction. With the increasing demands for safety, efficiency, and sustainability in global shipping, the application of AIS data plays a crucial role in enhancing maritime monitoring. With its advantage in handling long sequence data and complex temporal dependencies, the Transformer model has proven to be an effective tool for processing AIS data.
 
+## Paper Overview
+If you find this work useful, please cite our paper:
+- **Paper Title:**: AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review
+- **Authors:**: Zhiye Xie, Enmei Tu, Xianping Fu, Guoliang Yuan, Yi Han
+- **arXiv:**: [arXiv Link](https://arxiv.org/abs/2505.07374)
+- **Published:**: International Joint Conference on Neural Networks (IJCNN), 2025
+
+    @inproceedings{yourname2025ais,
+    title={AIS Data-Driven Maritime Monitoring Based on Transformer},
+    author={[Your Name(s)]},
+    booktitle={2025 International Joint Conference on Neural Networks (IJCNN)},
+    year={2025},
+    url={https://arxiv.org/abs/XXXX.XXXXX}
+    }
+
 ## Research Focus
 - **Vessel Trajectory Prediction**: Explores Transformer-based trajectory prediction methods, including generative and classification-based approaches.
 - **Vessel Behavior Detection**: Evaluates Transformer-based methods for detecting vessel behaviors, focusing on anomaly detection and risk management.
