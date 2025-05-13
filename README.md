@@ -18,6 +18,7 @@ If you find this work useful, please cite our paper:
     year={2025},
     url={https://arxiv.org/abs/XXXX.XXXXX}
 }
+```
 
 ## Research Focus
 - **Vessel Trajectory Prediction**: Explores Transformer-based trajectory prediction methods, including generative and classification-based approaches.
