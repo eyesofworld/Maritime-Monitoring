@@ -5,18 +5,19 @@ This paper provides a comprehensive review of AIS data-driven maritime monitorin
 
 ## Paper Overview
 If you find this work useful, please cite our paper:
-- **Paper Title:**: AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review
-- **Authors:**: Zhiye Xie, Enmei Tu, Xianping Fu, Guoliang Yuan, Yi Han
-- **arXiv:**: [arXiv Link](https://arxiv.org/abs/2505.07374)
-- **Published:**: International Joint Conference on Neural Networks (IJCNN), 2025
+- **Paper Title**: AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review
+- **Authors**: Zhiye Xie, Enmei Tu, Xianping Fu, Guoliang Yuan, Yi Han
+- **arXiv**: [arXiv Link](https://arxiv.org/abs/2505.07374)
+- **Published**: International Joint Conference on Neural Networks (IJCNN), 2025
 
-    @inproceedings{yourname2025ais,
+```bibtex
+@inproceedings{yourname2025ais,
     title={AIS Data-Driven Maritime Monitoring Based on Transformer},
     author={[Your Name(s)]},
     booktitle={2025 International Joint Conference on Neural Networks (IJCNN)},
     year={2025},
     url={https://arxiv.org/abs/XXXX.XXXXX}
-    }
+}
 
 ## Research Focus
 - **Vessel Trajectory Prediction**: Explores Transformer-based trajectory prediction methods, including generative and classification-based approaches.
