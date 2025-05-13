@@ -11,12 +11,12 @@ If you find this work useful, please cite our paper:
 - **Published**: International Joint Conference on Neural Networks (IJCNN), 2025
 
 ```bibtex
-@inproceedings{yourname2025ais,
+@inproceedings{xie2025ais,
     title={AIS Data-Driven Maritime Monitoring Based on Transformer},
-    author={[Your Name(s)]},
+    author={Xie, Zhiye and Tu, Enmei and Fu, Xianping and Yuan, Guoliang and Han, Yi},
     booktitle={2025 International Joint Conference on Neural Networks (IJCNN)},
     year={2025},
-    url={https://arxiv.org/abs/XXXX.XXXXX}
+    url={https://arxiv.org/abs/2505.07374}
 }
 ```
 
