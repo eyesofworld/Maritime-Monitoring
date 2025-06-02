@@ -28,7 +28,7 @@ If you find this work useful, please cite our paper:
 ## Datasets
 This study utilizes multiple publicly available AIS datasets from the reviewed papers, which have been filtered, cleaned, and analyzed statistically. The datasets cover various types of vessels and provide critical information about vessel locations, speeds, and headings.
 
-- **Dataset Link**: [Hugging Face Link](https://huggingface.co/datasets/eyesofworld/AIS_Dataset) [Baidu Cloud Link](https://pan.baidu.com/s/1Uz5JOt6KmFpqqfVQV3Z0lA?pwd=hpk9) 
+- **Dataset Link**: [Hugging Face Link](https://huggingface.co/datasets/eyesofworld/AIS_Dataset)    [Baidu Cloud Link](https://pan.baidu.com/s/1Uz5JOt6KmFpqqfVQV3Z0lA?pwd=hpk9) 
 - The dataset includes AIS messages from 19,185 vessels, totaling approximately 640 million records.
 
 ## Repository Structure
