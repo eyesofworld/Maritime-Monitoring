@@ -7,7 +7,7 @@ This paper provides a comprehensive review of AIS data-driven maritime monitorin
 If you find this work useful, please cite our paper:
 - **Paper Title**: AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review
 - **Authors**: Zhiye Xie, Enmei Tu, Xianping Fu, Guoliang Yuan, Yi Han
-- **arXiv**: [arXiv Link](https://arxiv.org/abs/2505.07374)
+- **Link**: [Paper Link](https://ieeexplore.ieee.org/document/11228006)
 - **Published**: International Joint Conference on Neural Networks (IJCNN), 2025
 
 ```bibtex
@@ -16,7 +16,7 @@ If you find this work useful, please cite our paper:
     author={Xie, Zhiye and Tu, Enmei and Fu, Xianping and Yuan, Guoliang and Han, Yi},
     booktitle={2025 International Joint Conference on Neural Networks (IJCNN)},
     year={2025},
-    url={https://arxiv.org/abs/2505.07374}
+    url={https://ieeexplore.ieee.org/document/11228006}
 }
 ```
 
